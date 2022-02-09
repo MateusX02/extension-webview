@@ -6,6 +6,7 @@
         <activity
             android:name="extensions.webview.WebViewActivity"
             android:theme="@style/FloatingActivityTheme"
+	    android:hardwareAccelerated="true" //peguei do webview do Matheus Silver
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize" />
 
     </application>
