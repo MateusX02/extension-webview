@@ -1,6 +1,6 @@
 # extension-webview
 
-A minimalistic OpenFL extension for displaying native WebViews on iOS and Android outputs.
+To juntando umas coisas de Android, PC e tals pro meu modpack!
 
 ### Main Features
 
